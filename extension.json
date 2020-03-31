@@ -1,0 +1,22 @@
+{
+    "name": "RestrictEdits",
+    "author": "Examknow (David Schultz)",
+    "license-name": "GPL-2.0+",
+    "version": "0.0.1",
+    "namemsg": "restrictEdits",
+    "descriptionmsg": "restrictEdits-desc",
+    "manifest_version": 1,
+    "MessagesDirs": {
+        "RestrictEdits": [ "i18n" ]
+    },
+    "AutoloadClasses": {
+        "SpecialRestrictEdits": "specials/SpecialRestrictEdits.php"
+    },
+    "SpecialPages": {
+        "RestrictEdits": "SpecialRestrictEdits"
+    },
+    "ExtensionMessagesFiles": {
+        "RestrictEditsAlias": "RestrictEdits.alias.php"
+    },
+    "type": "other"
+}
