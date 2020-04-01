@@ -1,0 +1,19 @@
+{
+	"name": "SuspendAccount",
+	"version": "0.0.0",
+	"author": [
+		"Your Name"
+	],
+	"descriptionmsg": "suspendaccount-desc",
+	"license-name": "GPL-2.0-or-later",
+	"type": "other",
+	"MessagesDirs": {
+		"SuspendAccount": [
+			"i18n"
+		]
+	},
+	"SpecialPages": {
+		"SuspendAccount": "SpecialHelloWorld"
+	},
+	"manifest_version": 2
+}
