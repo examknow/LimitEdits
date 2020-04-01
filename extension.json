@@ -13,7 +13,7 @@
 		]
 	},
 	"SpecialPages": {
-		"SuspendAccount": "SpecialHelloWorld"
+		"SuspendAccount": "SpecialSuspendAccount"
 	},
 	"manifest_version": 2
 }
